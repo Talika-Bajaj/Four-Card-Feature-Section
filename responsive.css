@@ -7,7 +7,7 @@
 
 @media screen and (width > 650px) {
     main {
-        margin: 0;
+        margin: 30px auto;
     }
 
     .para {

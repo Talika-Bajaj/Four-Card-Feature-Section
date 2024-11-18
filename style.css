@@ -40,7 +40,7 @@ main {
     width: 90vw;
     display: grid;
     grid-template-columns: 100%;
-    gap: 75px;
+    gap: 45px;
 }
 
 header {
@@ -54,7 +54,7 @@ header {
 }
 
 .heading-2 {
-    font-weight: 700;
+    font-weight: 600;
     color: var(--Very_Dark_Blue);
     font-size: 38px;
 }
@@ -80,19 +80,19 @@ header {
 }
 
 .supervisor {
-    border-top: 3px solid var(--Cyan);
+    border-top: 4px solid var(--Cyan);
 }
 
 .team-builder {
-    border-top: 3px solid var(--Red);
+    border-top: 4px solid var(--Red);
 }
 
 .karma {
-    border-top: 3px solid var(--Orange);
+    border-top: 4px solid var(--Orange);
 }
 
 .calculator {
-    border-top: 3px solid var(--Blue);
+    border-top: 4px solid var(--Blue);
 }
 
 .column {
@@ -108,7 +108,7 @@ header {
 
 .column h2 {
     font-weight: 600;
-
+    font-size: 20px;
 }
 
 .column img {
